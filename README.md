@@ -32,7 +32,7 @@ Your task is to iterate through `word/document.xml`, all headers and footers to 
 ```
 Dear Susan,
 
-{richTextElement}
+{@richTextElement}
 
 Signed,
 
