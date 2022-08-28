@@ -27,7 +27,7 @@ Signed,
 Nicolas
 ```
 
-Your task is to iterate through `word/document.xml`, all headers and footers to perform this replacement:
+Your task is to iterate through `word/document.xml`, all headers and footers to perform this replacement given a list of tags:
 
 ```
 Dear Susan,
